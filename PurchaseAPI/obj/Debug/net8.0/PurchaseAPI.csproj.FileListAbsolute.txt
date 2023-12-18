@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\PurchaseAPI\PurchaseAPI\obj\Debug\net8.0\PurchaseAPI.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PurchaseAPI\PurchaseAPI\obj\Debug\net8.0\PurchaseAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\PurchaseAPI\PurchaseAPI\obj\Debug\net8.0\PurchaseAPI.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\PurchaseAPI\PurchaseAPI\obj\Debug\net8.0\PurchaseAPI.AssemblyInfo.cs
+C:\Users\USER\source\repos\PurchaseAPI\PurchaseAPI\obj\Debug\net8.0\PurchaseAPI.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PurchaseAPI\PurchaseAPI\obj\Debug\net8.0\PurchaseAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\source\repos\PurchaseAPI\PurchaseAPI\obj\Debug\net8.0\PurchaseAPI.MvcApplicationPartsAssemblyInfo.cache
